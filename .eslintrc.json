@@ -35,6 +35,7 @@
                 "tsx": "never"
             }
         ],
+        "import/prefer-default-export": "off",
         "prettier/prettier": "error",
         "camelcase": "off"
     },
